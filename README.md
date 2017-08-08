@@ -4,6 +4,8 @@
 
 # A bust of the Emperor Caracalla
 
+![](caracalla.gif)
+
 Draft of Caracalla model. 144 photos from a Nikon D5100 by Daniel Pett. Masking to be applied and a cleaner model to be uploaded. Poor lighting at 9.43am, gallery 70.
 
 # LICENSE
